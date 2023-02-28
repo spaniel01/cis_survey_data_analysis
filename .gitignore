@@ -1,5 +1,4 @@
 3384.sav
-cis_data_preperation.py
 cis_survey_data_revised.pkl
 codigo3384.pdf
 cues3384.pdf
@@ -10,5 +9,11 @@ FT3384.pdf
 MD3384
 MD3384.zip
 varNameDesc
+calcs.py
+calcs.txt
+cis_analysis.ipynb
+cis_data_preparation_jupyter.ipynb
+lookUpTable.pkl
+lookUpTable2.pkl
 .spyproject/
 .vscode/
